@@ -4,10 +4,11 @@ title: Climate change and adaptation measures; equity and gender inclusiveness -
 author: "Shylock Muyengwa"
 date: "January 30, 2017"
 output:
-  pdf_document: default
   word_document:
     highlight: espresso
     reference_docx: word_format.docx
+  pdf_document: default
+  html_document: default
 csl: chicago-author-date-basque.csl
 bibliography: crossref.bib
 ---
@@ -22,7 +23,7 @@ The purpose of this online discussion was  to explore the climate change and ada
 
 # Introduction
 
-Africa is one of the most vulnerable continents to climate change. Climate change is broadly defined as a process of .... The impacts of climate change are context specific but it is broadly the predicted these changes will impact agriculture, biodiversity and ecosystems, and human health [@intergovernmental2014climate].  The IPCC (2007) reported that Africa is most likely to experience hot temperatures and severe drought conditions in the Sahel region, Horn of Africa, and Southern Africa [@pachauri2008ipcc].  In addition it also predicted that Africa will experience increased water stress by 2020 (affecting between 75-250 million people), a 50 % decline in rain fed agriculture by 2020, projected sea level rise that will affect low-lying coastal areas with large populations, and a 5-8% increase of arid and semi-arid lands.  Some of these predicted changes are already evident such as the deteriorating water supply and quality in West Africa, the melting snows of Mt Kilimanjaro, below average rainfall resulting in food shortages and livestock death in Kenya and Somalia (2010/2012), and severe flooding that is impacting on human shelter ^[http://350africa.org/8-ways-climate-change-is-already-affecting-africa/]
+Africa is one of the most vulnerable continents to climate change. The impacts of climate change are context specific but it is broadly the predicted these changes will impact agriculture, biodiversity and ecosystems, and human health [@intergovernmental2014climate].  The IPCC (2007) reported that Africa is most likely to experience hot temperatures and severe drought conditions in the Sahel region, Horn of Africa, and Southern Africa [@pachauri2008ipcc].  In addition it also predicted that Africa will experience increased water stress by 2020 (affecting between 75-250 million people), a 50 % decline in rain fed agriculture by 2020, projected sea level rise that will affect low-lying coastal areas with large populations, and a 5-8% increase of arid and semi-arid lands.  Some of these predicted changes are already evident such as the deteriorating water supply and quality in West Africa, the melting snows of Mt Kilimanjaro, below average rainfall resulting in food shortages and livestock death in Kenya and Somalia (2010/2012), and severe flooding that is impacting on human shelter ^[http://350africa.org/8-ways-climate-change-is-already-affecting-africa/]
 
 
 
@@ -33,6 +34,7 @@ In order to cope with the impacts of climate change, countries need to invest ad
 One of the future concerns is the ability of the African continent to feed its people in the face of harsh climatic changes.  Maize is an important staple and its production is likely to decline by the year 2055 resulting in direct negative impacts  at the household level [@JONES_2003]. Poor and rural households are mostly dependant on mixed crop and livsstock agriculturewhich is largely less mmechanised agriculture (i.e. hand tillage with no access to irrigation [@brown2015climate; @busby2014identifying]. Such farming syetsms are highy sensitive to  climate change, particularly hot and dry conditions, which will affect household productivity and also lead to increased cost of cereals[@RePEc]
 
 In order to explore these multifaceted impacts of climate change on the African continent and   the adaptation mechanisms, AfCoP launched an online discussion that was guided by the following questions: 
+
 1.	What are the projected impacts of climate change in your region? 
 
 2.	Are there any community level impacts that are predicted for your locality? If yes, what are they? 
@@ -45,21 +47,39 @@ In order to explore these multifaceted impacts of climate change on the African 
 
 6.	As a continent, what concrete steps can we take to mitigate the gendered impacts of climate change? 
 
-The following section presents the viewpoints raised during the discussion and secondary literature review. There were two contributors to this discussion (Gemma Mbaya and Risper Buyaki Nyairo)  who both gave examples from Kenya.  Their perspectives are also shared in the following section 
+The following section presents the viewpoints raised during the discussion and secondary literature review. There were two contributors to this discussion (Gemma Mbaya and Risper Buyaki Nyairo)  who both gave examples from Kenya.  Their perspectives are also shared in the following section. 
+
+## Definition of key terms: 
+
+**Climate change adaptation**
+- The UN Development Program calls it a process by which strategies to moderate, cope with and take advantage of the consequences of climatic events are enhanced, developed, and implemented.^[http://www.vcccar.org.au/climate-change-adaptation-definitions]
+ 
+ **Climate Change** 
+ - refers to any long-term change in Earth's climate, or in the climate of a region or city. This includes warming, cooling and changes besides temperature.^[https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-climate-change-58.html]
 
 #Projected Impacts of Climate Change in Africa 
+This section focusses on three main projected impacts of climate change: impact on ecosystems, impact of food systems and impacts on human health
 
-One of the anticipated impacts of climate change is that dry areas will become drier.  As Gemma noted 80% of the land is classified as arid and drier conditions make it difficult to produce adequate crops.  
+## Ecosystem impacts
 
-and this affects Kenya mostly because more than 80% of the land is classified as ASAL. One resilient strategy I have seen being adopted is the growing of drought-resistant crops. Researchers are always working to come up with better varieties each year. One hindrance however, is the high cost of these improved varieties that leads farmers to shun them in favour of local varieties. Women empowerment would come in handy through using some of the sensitization strategies mentioned above (or others that have been proved to work).
-The second point I would like to make is that urbanization is happening very rapidly in Kenya, unplanned if I should add. Its about time that adaptation strategies to climate change focused on rural vs urban areas even as they look at differential impacts on men and women. For example I believe that women in urban areas rely more on one source of income compared to women in rural areas.
+
+## Impacts on food systems
+One of the anticipated impacts of climate change is that dry areas will become drier. These drier conditions will affect countries with highest yield averages and also affect fertilized modern seed varities[@schlenker2010robust]. South Asia and Southern Africa are the two regions that are prone to negative impacts on several crops [@lobell2008prioritizing].  As Gemma noted during the online discussion, 80% of Kenya's land is classified as arid and any additional decline in rainfall or an increase in drier conditions will make it difficult to produce crops and consequently feed millions of people.   Thus,  adequate mitigation is required in order to avert potential food shortages on the the continent.  The proposed cocktail of measures include the need to invest in large scale agricultural interventions.  Others notes however, that small scale farmers in Africa have been resilient and adapted to historical changes.  What is required therefore, is for governments to provide adequate and relevant information to farmers [@challinor2007assessing].  
+
+## Impact on human health
+
+
+
 
 #The Gendered Impacts of Climate Change
+Women empowerment would come in handy through using some of the sensitization strategies mentioned above (or others that have been proved to work).
+
+ In summary Nyairo also notes that while there is a tendency to focus on males and females, ther is need to also look at the differential impacts among women themselves for example between women in urban areas compared to women in rural areas.
 
 # National Adaptation Plan (Gender Sensitive?)
 At national level, National Climate Strategies are key documents that facilitate the development of policies, programs, and other development initiatives to mitigate climate change impacts[^1]: Online Discussion Forum.  
 
-Kenya's effort at addressing the climate change agenda can be said to have started in earnest with the launch of the National Climate Change Strategy in 2010. The Strategy sought to facilitate the development of policies, programmed and other development initiatives that would mitigate the negative impacts of climate change countrywide. Thereafter. the National Climate Change Action Plan (2013-2017) was enacted to operationalise the Action Plan to meet Vision 2030 targets. According to the Ministry of Environment and Natural Resources, several water towers have been gazetted because these are very susceptible to threats of human activities. In addition, a number of degraded forest areas have been mapped out for rehabilitation And while all these initiatives are salutary, the unfinished business is that there is a deliberate effort that needs to be made to "genderize" the narrative on climate change, especially by consulting, involving and communicating to the woman on climate change. Not only because she is intimately tied to nature, where she derives most of her livelihood, but more importantly because she is primarily in charge of the cradle of humanity (paternity leave notwithstanding) and therefore can start early to pass messages to the young on issues environment. Subsequently, curricula at various levels of education should incorporate the climate change agenda.
+
 
 #Way forward for Africa (lessons from the other continents)
 
@@ -69,15 +89,12 @@ The second strategy is to empower women and to also develop adaptation strategie
 
 
 
+The third suggestion also comes from **Gemma Mbaya** who proposes a coordinated approach to climate change issues and vesting decision making in the "highest office"  minimizing impact.
 
- The livestock farmer needs to learn that leaving cow dung just everywhere harms the environment because of the methane gas. The point at issue is that people must see how the immediacy of what they do has impact to their survival. Several strategies can be used, including using art, song and dance to propagate the message. At both national and county levels, we can have" environment days" to create awareness and sensitize people on the impact of environment degradation. We can also use such days to identify needs for capacity development or skill transfer. The same days could be used to incentivise individuals who have used a particular practice or innovation to conserve the environment. There could also be developed an "environment bulletin" to document and disseminate success stories on climate change. 
-
-To my mind the environment portfolio, in Kenya, is too important and sensitive to be domiciled in one Ministry at the national level or in a County Executive at the County. My humble suggestion is that the portfolio ought to be located in the highest office of the land where there is enough authority and responsibility to get things done. The environment ministry at the national and county levels can then be "internal consultants" on matters environment. All ministries can then have relevant sub-indicators cascaded to them. The same would apply for the counties. This would not only foster synergy, cohesion, convergence and coordination of the climate change agenda but it would also reduce the silo effect in dealing with climate issues. Many other actors in this area, such as the Kenya Climate Innovation could be brought together for knowledge share, lesson learning and to avoid duplication of effort, redundancy and resource wastage, with the net result of minimizing impact.
-
-The third recommendation is for  AfCoP fto establish a Regional CoP for Climate Change.  The purpose of such a platform is to allow for regional synthesis of climate change impacts and share ideas on appropriate and cost-effective mitigation strategies.  
+The fourth recommendation is for  AfCoP fto establish a Regional CoP for Climate Change.  The purpose of such a platform is to allow for regional synthesis of climate change impacts and share ideas on appropriate and cost-effective mitigation strategies.  
 
 # Conclusion
-To conclude, Gemma Mbaya is  "...of the view that climate change [discourse, policies, and interventions] ha(ve) not reached the _"gemba"_, where work is actually done. The message must get to where action is by being communicated at the language and experience level of the farmer..." 
+To conclude, **Gemma Mbaya** is  "...of the view that climate change [discourse, policies, and interventions] ha(ve) not reached the **_"gemba"_**, where work is actually done. The message must get to where action is by being communicated at the language and experience level of the farmer..." 
 
 # References
 
